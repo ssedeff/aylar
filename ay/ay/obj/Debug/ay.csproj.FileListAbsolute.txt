@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\ay\ay\bin\Debug\ay.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\ay\ay\bin\Debug\ay.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\ay\ay\bin\Debug\ay.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\ay\ay\obj\Debug\ay.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\ay\ay\obj\Debug\ay.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\ay\ay\obj\Debug\ay.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\ay\ay\obj\Debug\ay.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\ay\ay\obj\Debug\ay.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\ay\ay\obj\Debug\ay.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\ay\ay\obj\Debug\ay.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\ay\ay\obj\Debug\ay.pdb
